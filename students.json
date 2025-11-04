@@ -1,0 +1,4303 @@
+{
+  "students": [
+    {
+      "id": "101",
+      "name": "Amit Sharma",
+      "age": 20,
+      "grade": "A",
+      "department": "Computer Science",
+      "subjects": [
+        "Java",
+        "Data Structures",
+        "DBMS"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Sneha Patel",
+      "age": 21,
+      "grade": "B+",
+      "department": "Electronics",
+      "subjects": [
+        "Digital Circuits",
+        "Microprocessors",
+        "Signal Processing"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Rahul Verma",
+      "age": 22,
+      "grade": "A+",
+      "department": "Information Technology",
+      "subjects": [
+        "Networking",
+        "Web Development",
+        "Cloud Computing"
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Priya Nair",
+      "age": 19,
+      "grade": "A",
+      "department": "Mechanical Engineering",
+      "subjects": [
+        "Thermodynamics",
+        "Fluid Mechanics",
+        "CAD"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Vikram Singh",
+      "age": 23,
+      "grade": "B",
+      "department": "Civil Engineering",
+      "subjects": [
+        "Structural Analysis",
+        "Surveying",
+        "Environmental Engineering"
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Harsh Singh",
+      "age": 23,
+      "grade": "B",
+      "department": "EC Engineering",
+      "subjects": [
+        "Digital Communication",
+        "VLSI"
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Harsh Singh",
+      "age": 23,
+      "grade": "B",
+      "department": "EC Engineering",
+      "subjects": [
+        "Digital Communication",
+        "VLSI"
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Harsh Singh",
+      "age": 23,
+      "grade": "B",
+      "department": "EC Engineering",
+      "subjects": [
+        "Digital Communication",
+        "VLSI"
+      ]
+    },
+    {
+      "id": "107",
+      "name": "Manoj Achar",
+      "age": 23,
+      "grade": "B",
+      "department": "EC Engineering",
+      "subjects": [
+        "Digital Communication",
+        "VLSI",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "107",
+      "name": "Manoj Achar",
+      "age": 23,
+      "grade": "B",
+      "department": "EC Engineering",
+      "subjects": [
+        "Digital Communication",
+        "VLSI",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "107",
+      "name": "Manoj Achar",
+      "age": 23,
+      "grade": "B",
+      "department": "EC Engineering",
+      "subjects": [
+        "Digital Communication",
+        "VLSI",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "117",
+      "name": "Ajay Achar",
+      "age": 23,
+      "grade": "B",
+      "department": "EC Engineering",
+      "subjects": [
+        "Digital Communication",
+        "VLSI",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Manoj Acharya",
+      "age": 23,
+      "grade": "A",
+      "department": "EE Engineering",
+      "subjects": [
+        "Digital Communication",
+        "Digital Electronics"
+      ]
+    }
+  ]
+}
